@@ -1,0 +1,3 @@
+# 反爬虫协议
+User-agent: *
+Allow: /
